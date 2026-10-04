@@ -1,8 +1,8 @@
-# AeroPods X — Original 3D Product Design
+# Pasta Pods — Original 3D Product Design
 
 ## Concept
 
-**AeroPods X** is an original fictional consumer-technology personal audio system designed for an anticipated 2026 market release. Rather than replicating the ubiquitous cylindrical-stem and pill-box design language popularized by Apple AirPods and common market derivatives, AeroPods X explores an **aerodynamic, sculpted architectural form** inspired by high-performance computational fluid dynamics (CFD) and aerospace acoustic enclosures.
+**Pasta Pods** is an original fictional consumer-technology personal audio system designed for an anticipated 2026 market release. Rather than replicating the ubiquitous cylindrical-stem and pill-box design language popularized by Apple AirPods and common market derivatives, Pasta Pods explores an **aerodynamic, sculpted architectural form** inspired by high-performance computational fluid dynamics (CFD) and aerospace acoustic enclosures.
 
 The product combines a sculpted asymmetric charging case with an integrated smart glanceable OLED telemetry display and two independent wireless acoustic pods featuring swept aerodynamic blade stems, dual-flange silicone ear tips, and micro-mesh acoustic apertures.
 
@@ -21,14 +21,14 @@ The product combines a sculpted asymmetric charging case with an integrated smar
 - **Capacitive Touch Ribbon**: A longitudinal brushed titanium inlay on the lateral face provides intuitive swipe-and-tap acoustic gesture controls without accidental triggers.
 
 ### 3. Integrated OLED Telemetry Matrix
-- **Front Curved Display**: Rather than relying solely on a generic flashing multi-color LED dot, AeroPods X embeds a curved, flush-mounted OLED status pill directly into the front aerodynamic chassis.
+- **Front Curved Display**: Rather than relying solely on a generic flashing multi-color LED dot, Pasta Pods embeds a curved, flush-mounted OLED status pill directly into the front aerodynamic chassis.
 - **Glanceable Telemetry**: Provides real-time percentage battery readout for both individual earbuds and the case, active DSP noise cancellation mode, and real-time audio equalization frequency visualizers.
 
 ---
 
 ## Original Features
 
-AeroPods X features at least five clearly identifiable original design characteristics:
+Pasta Pods features at least five clearly identifiable original design characteristics:
 
 1. **Aerodynamically Sculpted Asymmetric Chassis**:
    A custom-contoured lozenge geometry with lateral aerodynamic chamfers and an ergonomic concave thumb scoop, departing completely from traditional pebble or rectangular clones.

@@ -41,11 +41,11 @@ export class DisplayTexture {
     ctx.lineWidth = 4;
     ctx.strokeRect(4, 4, w - 8, h - 8);
 
-    // Left Column: AEROPODS X Branding & Mode
+    // Left Column: PASTA PODS Branding & Mode
     ctx.fillStyle = '#8b9bb4';
     ctx.font = 'bold 22px "Inter", "Segoe UI", sans-serif';
     ctx.letterSpacing = '2px';
-    ctx.fillText('AEROPODS X', 32, 42);
+    ctx.fillText('PASTA PODS', 32, 42);
 
     // ANC Mode Badge with Accent Color
     ctx.fillStyle = this.state.accentColor;

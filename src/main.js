@@ -341,7 +341,7 @@ class AeroPodsShowcase {
         title: 'Adaptive Noise Cancellation (ANC)',
         badge: 'NEURAL ACOUSTIC ENGINE',
         body: `
-          <p>AeroPods X features dual feedforward & feedback micro-mesh acoustic apertures powered by a proprietary 48kHz neural DSP processor.</p>
+          <p>Pasta Pods features dual feedforward & feedback micro-mesh acoustic apertures powered by a proprietary 48kHz neural DSP processor.</p>
           <div class="stat-grid">
             <div class="stat-card">
               <span class="stat-val">-48 dB</span>
