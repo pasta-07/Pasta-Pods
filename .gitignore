@@ -1,6 +1,7 @@
 node_modules
 dist
 .vercel
+Pasta Pods/
 .env
 .env.local
 .DS_Store
