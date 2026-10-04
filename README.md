@@ -1,4 +1,4 @@
-# AEROPODS X — Interactive 3D Product Showcase
+Pasta Pods — Interactive 3D Product Showcase
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://temporary-agile-banyan-un6a88z.vercel.app)
 [![Three.js](https://img.shields.io/badge/Three.js-r170-black?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
@@ -10,7 +10,7 @@ An original, fictional 2026 consumer-technology wireless audio system designed s
 
 ## 🎧 Concept & Industrial Design
 
-**AeroPods X** breaks away from conventional cylindrical clones with an aerodynamic, computational fluid dynamics (CFD) inspired form factor:
+**Pasta Pods** breaks away from conventional cylindrical clones with an aerodynamic, computational fluid dynamics (CFD) inspired form factor:
 - **Asymmetric Sculpted Charging Case**: Custom-contoured lozenge geometry featuring lateral brushed titanium fluting and an ergonomic front thumb scoop.
 - **Dynamic Front OLED Telemetry Pill**: Curved glanceable OLED matrix display rendering real-time battery percentages, active DSP noise cancellation profile, and animated audio equalizer waveform bars.
 - **Swept Blade Airfoil Earbuds**: Earbuds designed with an aerodynamic blade-wing profile, 38° forward acoustic canal angle, soft dual-flange silicone ear tips, and longitudinal titanium capacitive touch ribbons.
